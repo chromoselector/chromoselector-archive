@@ -1,3 +1,6 @@
+# Deprecation notice
+THIS LIBRARY IS DEPRECATED, NO LONGER SUPPORTED, CONTAINS SECURITY VULNERABILITIES AND SHOULD NOT BE USED.
+
 # Chromoselector
 
 These are the archives for Chromoselector, a jQuery color picker plugin.
